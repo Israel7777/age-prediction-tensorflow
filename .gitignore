@@ -1,6 +1,0 @@
-*.hf
-*/*.hf
-*.jpg
-*/*.jpg
-data/*.*
-model/*.*
