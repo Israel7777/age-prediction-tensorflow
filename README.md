@@ -18,8 +18,8 @@ tensorflow
 
 
 ### To Train
-'''
-  To train  = python fine-tune.py --train_dir "data/images/train" --val_dir "data/images/test"
-  To test with certain pics =  python predict.py --model "model/2_vggface-fc.h5" --image "test/img.jpg"
-  To test with web-cam = python cam.py
-'''
+```
+  **To train**  = python fine-tune.py --train_dir "data/images/train" --val_dir "data/images/test"
+  **To test with certain pics** =  python predict.py --model "model/2_vggface-fc.h5" --image "test/img.jpg"
+  **To test with web-cam** = python cam.py
+```
